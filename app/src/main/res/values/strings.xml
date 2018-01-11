@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Guess The Word</string>
+    <string name="instructions">
+        1. You are supposed to make as many words as you can from the given set of letters in the grid.
+        \n2. You can only select letters such that consecutive letters are neighbour to one another.
+        \n3. The minimum valid word length is 4 i.e. "cars" is a valid word whereas "car" is not.
+        \n4. If the submitted word is a valid one then it is added to the list and the score would be updated.
+
+    </string>
+    <string name="about_text">
+        Guess the word is a challenging word game inspired from the classic board trivia \"Boggle\".
+        \n
+        \nContributors:
+        \n1. Ashwin Nayak
+        \n2. Jenisha Dsouza
+        \n3. Nidhi R
+        \n\n
+    </string>
+    <string name="play_caps">PLAY</string>
+    <string name="about_caps">ABOUT</string>
+    <string name="instructions_caps">INSTRUCTIONS</string>
+    <string name="text_Words">Words</string>
+</resources>
